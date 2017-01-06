@@ -8,8 +8,8 @@ import android.text.SpannableStringBuilder;
 import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
-import com.ssdy.education.mobile.student.span2.LinkTouchMovementMethod;
-import com.ssdy.education.mobile.student.span2.TouchableSpan;
+import com.ssdy.education.mobile.student.span.LinkTouchMovementMethod;
+import com.ssdy.education.mobile.student.span.TouchableSpan;
 
 import java.util.ArrayList;
 import java.util.List;
