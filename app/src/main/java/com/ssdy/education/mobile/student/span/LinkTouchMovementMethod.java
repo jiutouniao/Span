@@ -49,6 +49,7 @@ public class LinkTouchMovementMethod extends LinkMovementMethod {
                                 state =1;
                             }
                         }
+
                     }
                 },100);
                 mHandler.postDelayed(new Runnable() {
